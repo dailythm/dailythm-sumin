@@ -4,6 +4,7 @@
 - [2강_선형배열(Linear Array)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/2%EA%B0%95_221027.md)
 - [3강_정렬과 탐색(Sorting & Searching)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/3%EA%B0%95_221028.md)
 - [4강_재귀알고리즘(Recursive Algorithms) - 기초](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/4%EA%B0%95_221030.md)
+- [5강_재귀알고리즘(Recursive Algorithms) - 응용](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/5%EA%B0%95_221031.md)
 ---
 ## 💗1주차
 - [221026_두수의 합/차/곱/몫 구하기](https://github.com/dailythm/dailythm-sumin/blob/main/1%EC%A3%BC%EC%B0%A8/221026.md)
