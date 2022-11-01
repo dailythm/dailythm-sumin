@@ -12,3 +12,4 @@
 - [221028_나머지/중앙값/최빈값 구하기, 짝수는 싫어요](https://github.com/dailythm/dailythm-sumin/blob/main/1%EC%A3%BC%EC%B0%A8/221028.md)
 - [221030_피자 나눠 먹기(1)/(2)/(3), 배열의 평균값](https://github.com/dailythm/dailythm-sumin/blob/main/1%EC%A3%BC%EC%B0%A8/221030.md)
 - [221031_옷가게 할인 받기, 아이스 아메리카노, 나이 출력, 배열 뒤집기](https://github.com/dailythm/dailythm-sumin/blob/main/1%EC%A3%BC%EC%B0%A8/221031.md)
+- [221101_문자열 뒤집기, 직각삼각형 출력하기, 짝수 홀수 개수, 문자 반복 출력하기](https://github.com/dailythm/dailythm-sumin/blob/main/1%EC%A3%BC%EC%B0%A8/221101.md)
