@@ -17,3 +17,4 @@
 - [221101_문자열 뒤집기, 직각삼각형 출력하기, 짝수 홀수 개수, 문자 반복 출력하기](https://github.com/dailythm/dailythm-sumin/blob/main/1%EC%A3%BC%EC%B0%A8/221101.md)
 ## 🧡2주차
 - [221102_특정 문자 제거하기, 각도기, 양꼬치, 짝수의 합](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221102.md)
+- [221103_배열 자르기, 외계행성의 나이, 진료순서 정하기, 순서쌍의 개수](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221103.md)
