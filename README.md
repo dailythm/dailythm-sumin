@@ -6,7 +6,8 @@
 - [4강_재귀알고리즘(Recursive Algorithms) - 기초](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/4%EA%B0%95_221030.md)
 - [5강_재귀알고리즘(Recursive Algorithms) - 응용](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/5%EA%B0%95_221031.md)
 - [6강_알고리즘의 복잡도(Complexity of Algorithms)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/6%EA%B0%95_221101.md)
-- [7강_연결 리스트(Linked Lists)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/7%EA%B0%95_221102.md)
+- [7강_연결 리스트(Linked Lists) - (1)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/7%EA%B0%95_221102.md)
+- [8강_연결 리스트(Linked Lists) - (2)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/8%EA%B0%95_221103.md)
 ---
 ## 💗1주차
 - [221026_두수의 합/차/곱/몫 구하기](https://github.com/dailythm/dailythm-sumin/blob/main/1%EC%A3%BC%EC%B0%A8/221026.md)
