@@ -20,3 +20,4 @@
 - [221102_특정 문자 제거하기, 각도기, 양꼬치, 짝수의 합](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221102.md)
 - [221103_배열 자르기, 외계행성의 나이, 진료순서 정하기, 순서쌍의 개수](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221103.md)
 - [221104_개미 군단, 모스부호(1), 가위바위보, 구슬을 나누는 경우의 수](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221104.md)
+- [221106_점의 위치 구하기, 2차원으로 만들기, 공 던지기, 배열 회전시키기](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221106.md)
