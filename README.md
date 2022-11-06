@@ -9,6 +9,7 @@
 - [7강_연결 리스트(Linked Lists) - (1)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/7%EA%B0%95_221102.md)
 - [8강_연결 리스트(Linked Lists) - (2)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/8%EA%B0%95_221103.md)
 - [9강_연결 리스트(Linked Lists) - (3)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/9%EA%B0%95_221104.md)
+- [10강_양방향 연결 리스트(Doubly Linked Lists)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/10%EA%B0%95_221106.md)
 ---
 ## 💗1주차
 - [221026_두수의 합/차/곱/몫 구하기](https://github.com/dailythm/dailythm-sumin/blob/main/1%EC%A3%BC%EC%B0%A8/221026.md)
