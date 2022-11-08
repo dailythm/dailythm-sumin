@@ -25,3 +25,5 @@
 - [221104_개미 군단, 모스부호(1), 가위바위보, 구슬을 나누는 경우의 수](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221104.md)
 - [221106_점의 위치 구하기, 2차원으로 만들기, 공 던지기, 배열 회전시키기](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221106.md)
 - [221107_주사위의 개수, 합성수 찾기, 최댓값 만들기(1), 팩토리얼](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221107.md)
+- [221108_모음 제거, 문자열 정렬하기(1), 숨어있는 숫자의 덧셈(1), 소인수분해](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221108.md)
+## 💛3주차
