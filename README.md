@@ -12,6 +12,7 @@
 - [10강_양방향 연결 리스트(Doubly Linked Lists)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/10%EA%B0%95_221106.md)
 - [11강_스택(Stacks)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/11%EA%B0%95_221107.md)
 - [12강_스택의 응용 - 수식의 후위 표기법(Postfix Notation)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/12%EA%B0%95_221108.md)
+- [13강_스택의 응용: 후위 표기 수식 계산](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/13%EA%B0%95_221109.md)
 ---
 ## 💗1주차
 - [221026_두수의 합/차/곱/몫 구하기](https://github.com/dailythm/dailythm-sumin/blob/main/1%EC%A3%BC%EC%B0%A8/221026.md)
