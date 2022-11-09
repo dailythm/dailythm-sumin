@@ -30,3 +30,4 @@
 - [221108_모음 제거, 문자열 정렬하기(1), 숨어있는 숫자의 덧셈(1), 소인수분해](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221108.md)
 ## 💛3주차
 - [221109_컨트롤 제트, 배열 원소의 길이, 중복된 문자 제거, 삼각형의 완성조건(1)](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221109.md)
+- [221110_가까운 수, 369게임, 암호 해독, 대문자와 소문자](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221110.md)
