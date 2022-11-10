@@ -33,3 +33,4 @@
 - [221109_컨트롤 제트, 배열 원소의 길이, 중복된 문자 제거, 삼각형의 완성조건(1)](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221109.md)
 - [221110_가까운 수, 369게임, 암호 해독, 대문자와 소문자](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221110.md)
 - [221111_영어가 싫어요, 인덱스 바꾸기, 한 번만 등장한 문자, 약수 구하기](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221111.md)
+- [221112_편지, 가장 큰 수 찾기, 문자열 계산하기, 배열의 유사도](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221112.md)
