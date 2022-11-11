@@ -14,6 +14,7 @@
 - [12강_스택의 응용 - 수식의 후위 표기법(Postfix Notation)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/12%EA%B0%95_221108.md)
 - [13강_스택의 응용: 후위 표기 수식 계산](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/13%EA%B0%95_221109.md)
 - [14강_큐(Queues)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/14%EA%B0%95_221110.md)
+- [15강_환형 큐(Circular Queues)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/15%EA%B0%95_221111.md)
 ---
 ## 💗1주차
 - [221026_두수의 합/차/곱/몫 구하기](https://github.com/dailythm/dailythm-sumin/blob/main/1%EC%A3%BC%EC%B0%A8/221026.md)
