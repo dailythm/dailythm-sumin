@@ -16,6 +16,7 @@
 - [14강_큐(Queues)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/14%EA%B0%95_221110.md)
 - [15강_환형 큐(Circular Queues)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/15%EA%B0%95_221111.md)
 - [16강_우선순위 큐(Priority Queues)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/16%EA%B0%95_221113.md)
+- [17강_ 트리(Trees)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/17%EA%B0%95_221114.md)
 ---
 ## 💗1주차
 - [221026_두수의 합/차/곱/몫 구하기](https://github.com/dailythm/dailythm-sumin/blob/main/1%EC%A3%BC%EC%B0%A8/221026.md)
