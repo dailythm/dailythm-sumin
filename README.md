@@ -51,3 +51,7 @@
 - [221121_특이한 정렬, 등수 매기기, 옹알이(1), 로그인 성공?](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221121.md)
 - [221122_치킨 쿠폰, 이진수 더하기, A로 B 만들기, k의 개수](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221122.md)
 - [221123_문자열 밀기, 종이 자르기, 연속된 수의 합, 다음에 올 숫자](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221123.md)
+
+## 코딩테스트 입문 100문제 완료 머쓱이 스탬프 GET✨
+
+![코딩테스트 입문 캘린더](https://user-images.githubusercontent.com/109029407/203852264-22d80b21-c51f-4301-8383-abc026ddeac0.png)
