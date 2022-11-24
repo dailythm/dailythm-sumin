@@ -48,3 +48,4 @@
 - [221118_숨어있는 숫자의 덧셈(2), 안전지대, 삼각형의 완성조건(2), 외계어 사전](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221118.md)
 - [221119_저주의 숫자 3, 평행, 겹치는 선분의 길이, 유한소수 판별하기](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221119.md)
 - [221121_특이한 정렬, 등수 매기기, 옹알이(1), 로그인 성공?](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221121.md)
+- [221122_치킨 쿠폰, 이진수 더하기, A로 B 만들기, k의 개수](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221122.md)
