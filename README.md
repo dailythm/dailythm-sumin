@@ -50,3 +50,4 @@
 - [221119_저주의 숫자 3, 평행, 겹치는 선분의 길이, 유한소수 판별하기](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221119.md)
 - [221121_특이한 정렬, 등수 매기기, 옹알이(1), 로그인 성공?](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221121.md)
 - [221122_치킨 쿠폰, 이진수 더하기, A로 B 만들기, k의 개수](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221122.md)
+- [221123_문자열 밀기, 종이 자르기, 연속된 수의 합, 다음에 올 숫자](https://github.com/dailythm/dailythm-sumin/blob/main/%EC%9E%85%EB%AC%B8/221123.md)
