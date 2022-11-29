@@ -21,6 +21,7 @@
 - [19강_ 이진 트리 - 넓이 우선 순회(breadth first traversal)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/19%EA%B0%95_221116.md)
 - [20강_ 이진 탐색 트리(Binary Search Trees) (1)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/20%EA%B0%95_221117.md)
 - [21강_ 이진 탐색 트리(Binary Search Trees) (2)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/21%EA%B0%95_221118.md)
+- [22강_ 힙(Heaps) (1)](https://github.com/dailythm/dailythm-sumin/blob/main/algorithm/22%EA%B0%95_221119.md)
 ---
 ## 💗1주차
 - [221026_두수의 합/차/곱/몫 구하기](https://github.com/dailythm/dailythm-sumin/blob/main/1%EC%A3%BC%EC%B0%A8/221026.md)
